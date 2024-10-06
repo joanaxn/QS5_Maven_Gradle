@@ -13,5 +13,7 @@ public class Main {
         double median = descriptiveStatistics.getPercentile(50);
         double standardDeviation = descriptiveStatistics.getStandardDeviation();
 
+        System.out.println("ola");
+
     }
 }
